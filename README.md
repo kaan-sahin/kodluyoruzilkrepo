@@ -2,7 +2,7 @@
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![image](C:\Users\Kaan\kodluyoruzilkrepo\image\repo.jpeg)
+![image]("C:\Users\Kaan\kodluyoruzilkrepo\image\repo.png")
 
 ****
 # **Installation**
@@ -31,7 +31,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # **License**
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-
-
